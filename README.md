@@ -1,5 +1,5 @@
 # Reusable CollectionView Component using SwifttUI
 
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![GitHub Logo](https://github.com/adriano-leal/reusableCollectionView/blob/master/collection.png)
+Format: ![Alt Text](https://github.com/adriano-leal/reusableCollectionView/blob/master/collection.png)
